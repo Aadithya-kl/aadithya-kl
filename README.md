@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAi/duck.gif" width="140">
+  <img src="./hacker-duck.gif" width="220">
 </p>
 
 <h3 align="center">
