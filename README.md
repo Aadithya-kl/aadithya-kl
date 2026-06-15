@@ -21,6 +21,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aadithya-kl&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 #  About Me
@@ -191,12 +195,6 @@ Full-stack inventory and prescription management system
 <a href="https://www.linkedin.com/in/k-l-aadithya-62b018295">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aadithya-kl&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
