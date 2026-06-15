@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aadithya K L</h1>
+<h1 align="center">Hi , I'm Aadithya K L</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;AI+Developer;FastAPI+Backend+Developer;Future+Security+Engineer;Building+Secure+Intelligent+Systems" />
@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-🔐 Cybersecurity Enthusiast • 🤖 AI Developer • ⚡ Backend Engineer
+ Cybersecurity Enthusiast •  AI Developer •  Backend Engineer
 </h3>
 
 <p align="center">
@@ -23,21 +23,21 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-🎓 B.Tech Computer Science & Data Science Student at Sai University
+ B.Tech Computer Science & Data Science Student at Sai University
 
-🔐 Passionate about Cybersecurity, Ethical Hacking, Network Security, and Secure Software Development
+ Passionate about Cybersecurity, Ethical Hacking, Network Security, and Secure Software Development
 
-🤖 Building AI Applications, RAG Systems, Agentic AI Workflows, and Enterprise Solutions
+ Building AI Applications, RAG Systems, Agentic AI Workflows, and Enterprise Solutions
 
-🐧 Learning Kali Linux, Penetration Testing, Security Operations, and Threat Detection
+ Learning Kali Linux, Penetration Testing, Security Operations, and Threat Detection
 
-📸 President of the Photography Club at Sai University
+ President of the Photography Club at Sai University
 
-🏆 Active Hackathon Participant and Builder
+ Active Hackathon Participant and Builder
 
-🌱 Currently Learning:
+ Currently Learning:
 
 - Advanced Cybersecurity
 - MCP (Model Context Protocol)
@@ -48,7 +48,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -93,9 +93,9 @@
 
 ---
 
-# 🔥 Featured Projects
+#  Featured Projects
 
-## 🔐 ADEGuard AI
+##  ADEGuard AI
 
 AI-Powered Threat Detection System
 
@@ -106,7 +106,7 @@ AI-Powered Threat Detection System
 
 ---
 
-## 🤖 Enterprise Compliance & Audit Intelligence Platform
+##  Enterprise Compliance & Audit Intelligence Platform
 
 Enterprise-grade AI-powered compliance management platform
 
@@ -118,7 +118,7 @@ Enterprise-grade AI-powered compliance management platform
 
 ---
 
-## 🧠 Enterprise Knowledge Assistant (RAG)
+##  Enterprise Knowledge Assistant (RAG)
 
 Retrieval-Augmented Generation Platform
 
@@ -129,7 +129,7 @@ Retrieval-Augmented Generation Platform
 
 ---
 
-## 💊 Pharmacy Management System
+##  Pharmacy Management System
 
 Full-stack inventory and prescription management system
 
@@ -140,7 +140,7 @@ Full-stack inventory and prescription management system
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadithya-kl&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -149,7 +149,7 @@ Full-stack inventory and prescription management system
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadithya-kl&theme=tokyonight&hide_border=true"/>
@@ -157,7 +157,7 @@ Full-stack inventory and prescription management system
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Aadithya-kl&theme=tokyonight&no-frame=true&row=1&column=7"/>
@@ -165,7 +165,7 @@ Full-stack inventory and prescription management system
 
 ---
 
-# 📈 Activity Graph
+#  Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadithya-kl&theme=tokyo-night"/>
@@ -173,23 +173,23 @@ Full-stack inventory and prescription management system
 
 ---
 
-# 🎯 2026 Goals
+#  2026 Goals
 
-✅ Strengthen Cybersecurity Fundamentals
+- Strengthen Cybersecurity Fundamentals
 
-✅ Build Advanced AI Applications
+- Build Advanced AI Applications
 
-✅ Contribute to Open Source
+- Contribute to Open Source
 
-✅ Prepare for Master's in Cybersecurity Abroad
+- Prepare for Master's in Cybersecurity Abroad
 
-✅ Participate in More Hackathons
+- Participate in More Hackathons
 
-✅ Publish Security Research & Technical Blogs
+- Publish Security Research & Technical Blogs
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 <a href="mailto:klaadithya@gmail.com">
@@ -210,5 +210,5 @@ Full-stack inventory and prescription management system
 ---
 
 <h3 align="center">
-💻 Building Secure & Intelligent Systems One Commit At A Time 🚀
+ Building Secure & Intelligent Systems One Commit At A Time 
 </h3>
